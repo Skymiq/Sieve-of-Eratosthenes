@@ -1,6 +1,7 @@
 # Sieve-of-Eratosthenes
 
 **Description:**
+
 The method of Eratosthenes Sieve.
 From the set of natural numbers in the interval [2, n], we choose the smallest,
 that is, 2, and we plot all its multiples greater than itself. From the rest of the numbers
