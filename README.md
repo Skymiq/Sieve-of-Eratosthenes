@@ -1,8 +1,6 @@
 # Sieve-of-Eratosthenes
 
-"""
-Description:
-
+**Description:**
 The method of Eratosthenes Sieve.
 From the set of natural numbers in the interval [2, n], we choose the smallest,
 that is, 2, and we plot all its multiples greater than itself. From the rest of the numbers
@@ -11,10 +9,8 @@ the same. We follow the same procedure for subsequent numbers.
 The process leaves only prime numbers undeleted.
 
 It is a algorithm that looks up prime numbers in given range.
-"""
 
-"""
-Sample result:
+**Sample result:**
 
 Primes Erastosthenes Finder v1.0
 
@@ -39,4 +35,4 @@ In the range 0 to 1000 were found 168 prime number(s)
  953, 967, 971, 977, 983, 991, 997]
 
 It took 0.00s
-"""
+
